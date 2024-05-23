@@ -40,3 +40,18 @@ h1 {
     1px -1px 2px #663399;
  font-style: italic;
   }
+
+img {
+   border: 2px solid paleVioletRed;
+}
+
+h2 {
+  font-family: Georgia;
+  font-size: 25px;
+  color: lavenderblush;
+  text-shadow:
+    1px 1px 2px rebeccaPurple,
+    -1px 1px 2px rebeccaPurple,
+    -1px -1px 2px paleVioletRed,
+    1px -1px 2px paleVioletRed;
+  }
