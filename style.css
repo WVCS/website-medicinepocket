@@ -43,6 +43,7 @@ h1 {
 
 img {
    border: 2px solid paleVioletRed;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
 }
 
 h2 {
